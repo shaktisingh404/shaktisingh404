@@ -2,15 +2,15 @@
 <h3 align="center">A passionate full stack Web Developer.</h3>
 
 
-- 🌱 I’m currently learning **MEARN STACK.**
+- 🌱 I’m currently learning **Spring-Boot.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaktisingh404](https://github.com/shaktisingh404)
 
-- 💬 Ask me about **react, express.**
+- 💬 Ask me about **react, java**
 
 - 📫 How to reach me **developer.shaktisingh@gmail.com**
 
-- ⚡ Fun fact **The first computer programmer in history was a woman named Ada Lovelace.**
+- ⚡ portfolio [https://github.com/shaktisingh404](https://www.shaktisingh.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

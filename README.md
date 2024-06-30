@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **developer.shaktisingh@gmail.com**
 
-- ⚡ portfolio [https://github.com/shaktisingh404](https://www.shaktisingh.tech)
+- ⚡ Portfolio [Shakti Singh](https://www.shaktisingh.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

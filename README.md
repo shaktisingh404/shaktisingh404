@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaktisingh404](https://github.com/shaktisingh404)
 
-- 💬 Ask me about **react, java**
+-  DSA [Leetcode](https://leetcode.com/u/shakti_dev/)
 
 - 📫 How to reach me **developer.shaktisingh@gmail.com**
 

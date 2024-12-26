@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shakti Singh</h1>
-<h3 align="center">A passionate full stack Web Developer.</h3>
+<h3 align="center">A Backend Developer.</h3>
 
 
-- 🌱 I’m currently learning **Spring-Boot.**
+- 🌱 I’m currently working at **GKM IT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaktisingh404](https://github.com/shaktisingh404)
 

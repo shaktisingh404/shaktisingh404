@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Developer.</h3>
 
 
-- 🌱 I’m currently working at **GKM IT**
+- 🌱 I’m currently working at **Metazone**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaktisingh404](https://github.com/shaktisingh404)
 

@@ -10,10 +10,10 @@
 
 - 📫 How to reach me **developer.shaktisingh@gmail.com**
 
-- ⚡ Portfolio [Shakti Singh](https://www.shaktisingh.tech)
+- ⚡ Portfolio [Shakti Singh](https://www.shaktisingh404.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaktisingh404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaktisingh404" height="30" width="40" /></a>
-<a href="https://instagram.com/if.rxbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="if.rxbot" height="30" width="40" /></a>
+<a href="https://instagram.com/shaktisingh4o4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaktisingh4o4" height="30" width="40" /></a>
 </p>
